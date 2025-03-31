@@ -35,7 +35,5 @@
 33. Скопировать коммит из пунка 31 в first_branch нужной командой: <b>git cherry-pick 79abe79c84c182eae1c44f1316b32aea2a3f46b4</b>
 34. Запушить изменения на внешний репозиторий ветки first_branch: <b>git push origin first_branch</b>
 35. Перейти в main: <b>git checkout main<b>
-36. Сделать Rebase first_branch в main: <b>git rebase first_branch<b>
- 37. Отправить изменения на внешний репозиторий: <b>git commit -m 'Update after operation rebase', git push</b>
-
-
+36. Сделать Rebase first_branch в main: <b>git rebase first_branch</b>
+37. Отправить изменения на внешний репозиторий: <b>git commit -m 'Update after operation rebase', git push</b>
