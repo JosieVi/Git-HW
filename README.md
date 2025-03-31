@@ -1,4 +1,4 @@
-# Git-HW
+# aqa-git-homework
 ## Homework-1
 1. Зайдите на github.com, зарегистрируйтесь, создайте public репозиторий  c названием Git_hw
 2. Клонировать репозиторий Git_HW на локальный компьютер. git clone https://github.com/JosieVi/Git-HW.git
